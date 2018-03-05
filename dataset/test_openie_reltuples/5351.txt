@@ -1,0 +1,10 @@
+0	SUBJ:Ukrainian minister:MISC:minister:2#	found:3	OBJ:---	find	find happen chance bump encounter 	find%2:40:02::	A	2:12#3:12#1:15#4:12#1:1#3:1#5:15#4:1#2:4#1:28#
+1	SUBJ:---	found:12	DOBJ:Yuri Kravchenko:PER:Kravchenko:1#DOBJ:hours:DURATION:hour:18#	find	find happen chance bump encounter 	find%2:40:02::	A	2:12#3:12#1:15#4:12#0:2#3:1#5:15#4:1#2:4#1:28#
+2	SUBJ:reports:communication:report:1#	indicate:2	OBJ:---	indicate	bespeak betoken indicate point signal 	indicate%2:32:01::	A	---
+2	SUBJ:he:PER:he:4#	committed suicide:5:6	OBJ:---	commit suicide	commit_suicide 	commit_suicide%2:35:00::	B	2:12#3:12#1:15#4:12#0:2#1:1#3:1#5:15#4:1#1:28#
+3	SUBJ:---	murdered:14	DOBJ:Mr. Gongadze:PER:Gongadze:12#	murder	murder slay hit dispatch bump_off off polish_off remove 	murder%2:41:00::	A	2:12#1:15#4:12#0:2#1:1#3:1#5:15#4:1#2:4#1:28#
+4	SUBJ:---	buried headless body:6:4	DOBJ:body:body:body:4#DOBJ:body:body:body:4#POBJ-IN:woods:ORG:wood:9#POBJ-OF:Mr. Gongadze:PER:Gongadze:1#	bury	bury 	bury%2:39:00::	A	5:10#2:12#3:12#1:15#4:12#0:2#1:1#3:1#5:15#2:4#1:28#
+4	SUBJ:---	never found head:16:13	DOBJ:head:body:head:13#DOBJ:head:body:head:13#	find	find happen chance bump encounter 	find%2:40:02::	A	---
+5	SUBJ:---	believed:12	DOBJ:it:lemma:it:it:10#	believe	believe 	believe%2:31:00::	A	4:4#
+5	SUBJ:evidence:cognition:evidence:17#	led:20	POBJ-TO:arrest:act:arrest:23#	lead	lead take direct conduct guide 	lead%2:38:01::	A	---
+5	SUBJ:---	arrested Nobody:4:0	DOBJ:nobody:person:nobody:0#DOBJ:Nobody:PER:nobody:0#POBJ-FOR:murder:act:murder:7#	arrest	collar nail apprehend arrest pick_up nab cop 	arrest%2:35:00::	A	---

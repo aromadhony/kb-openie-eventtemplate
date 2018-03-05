@@ -1,0 +1,39 @@
+0	SUBJ:P.E.I. residents:LOC:resident:3#	rally:4	OBJ:---	rally	beat_up drum_up rally 	rally%2:35:00::	A	---
+0	SUBJ:---	support:6	DOBJ:restaurant:artifact:restaurant:7#	support	support back_up 	support%2:41:00::	A	2:31#5:45#1:25#2:56#2:59#
+1	SUBJ:restaurant:artifact:restaurant:25#	overflowed:26	POBJ-WITH:flowers:plant:flower:32#POBJ-WITH:pleas:communication:plea:36#POBJ-WITH:customers:PER:customer:28#POBJ-WITH:cards:act:card:30#	overflow	overflow overrun well_over run_over brim_over 	overflow%2:38:00::	A	2:31#5:45#0:7#2:56#2:59#
+1	SUBJ:community:ORG:community:20#	support:21	OBJ:---	support	support back_up 	support%2:41:00::	A	---
+1	SUBJ:support Tuesday:DATE:support:21#	overwhelmed owners:18:1	DOBJ:owner:person:owner:1#DOBJ:owners:PER:owner:1#POBJ-OF:Noodle House Restaurant:ORG:Restaurant:6#	overwhelm	overwhelm overpower sweep_over whelm overcome overtake 	overwhelm%2:37:00::	A	2:24#
+1	SUBJ:---	not:39	DOBJ:leave province:lemma:leave province:province:41#	leave	leave go_forth go_away 	leave%2:38:01::	A	---
+2	SUBJ:outpouring:object:outpouring:12#	occurred:15	OBJ:---	occur	happen hap go_on pass_off occur pass fall_out come_about take_place 	occur%2:30:00::	A	---
+2	SUBJ:Lina Ko:PER:Ko:20#	announced:26	OBJ:---	announce	announce denote 	announce%2:32:00::	A	2:27#
+2	SUBJ:---	pelting:58	DOBJ:it:lemma:it:it:59#POBJ-WITH:snowballs:plant:snowball:61#	pelt	pelt bombard 	pelt%2:35:00::	A	2:31#5:45#0:7#1:25#2:56#
+2	SUBJ:---	threatening:64	DOBJ:Kos:quantity:Kos:66#	threaten	endanger jeopardize jeopardise menace threaten imperil peril 	threaten%2:42:00::	A	5:13#8:12#8:14#8:19#
+2	SUBJ:they:PER:they:27#	close restaurant:29:31	DOBJ:restaurant:artifact:restaurant:31#	close	close shut 	close%2:35:00::	A	2:20#
+2	SUBJ:they:PER:they:27#	leave province:33:35	DOBJ:province:location:province:35#POBJ-FOLLOWING:incident two weeks ago:DATE:incident:38#	leave	leave go_forth go_away 	leave%2:38:01::	A	2:20#
+2	SUBJ:groups:group:group:44#	surrounded restaurant:54:56	DOBJ:restaurant:artifact:restaurant:56#	surround	surround environ ring skirt border 	surround%2:35:00::	A	---
+3	SUBJ:Paul Smith:PER:Smith:4#	told:5	OBJ:---	tell	state say tell 	tell%2:32:04::	A	3:9#
+3	SUBJ:CBC PEI:ORG:PEI:7#	started:28	OBJ:---	start	get_down begin get start_out start set_about set_out commence 	start%2:30:00::	A	---
+3	SUBJ:---	taken:38	DOBJ:place:LOC:place:39#	take	take 	take%2:41:04::	A	---
+4	SUBJ:Police:ORG:Police:0#	noted:1	OBJ:---	note	note observe mention remark 	note%2:32:00::	A	5:44#6:13#4:3#
+4	SUBJ:Police:ORG:Police:0#	intend:24	OBJ:---	intend	intend mean think 	intend%2:31:00::	A	5:44#6:13#4:3#
+4	SUBJ:---	seek:26	DOBJ:co-operation:lemma:co-operation:co-operation:27#POBJ-FROM:schools:ORG:school:30#	seek	seek 	seek%2:40:00::	A	2:53#
+4	SUBJ:---	identifying:32	DOBJ:main culprits:lemma:main culprits:culprits:35#	identify	identify place 	identify%2:31:00::	A	---
+4	SUBJ:they:PER:they:3#	received complaints:5:6	DOBJ:complaint:state:complaint:6#POBJ-FROM:businesses:ORG:business:9#POBJ-FROM:pedestrians:PER:pedestrian:11#POBJ-FROM:drivers:PER:driver:14#	receive	receive have 	receive%2:40:00::	A	5:44#6:13#4:0#
+5	SUBJ:CBC PEI story:ORG:story:5#	reported:11	DOBJ:Kos:MISC:Kos:13#	report	report describe account 	report%2:32:00::	A	2:66#8:12#8:14#8:19#
+5	SUBJ:signs:communication:sign:31#	smashed:32	OBJ:---	smash	smash nail boom blast 	smash%2:35:00::	A	---
+5	SUBJ:fireworks:artifact:firework:38#	set:39	POBJ-IN_FRONT_OF:restaurant:artifact:restaurant:45#	set	put set place pose position lay 	set%2:35:00::	A	2:31#0:7#1:25#2:56#2:59#
+5	SUBJ:---	asking:14	DOBJ:police:ORG:police:15#	ask	ask inquire enquire 	ask%2:32:00::	A	---
+5	SUBJ:---	stop:20	DOBJ:littering:lemma:littering:littering:22#	stop	stop halt 	stop%2:38:00::	A	---
+5	SUBJ:---	stop:20	DOBJ:other vandalism:lemma:other vandalism:vandalism:25#POBJ-IN:area:LOC:area:28#	stop	stop halt 	stop%2:38:00::	A	6:27#
+6	SUBJ:Richard Collins:PER:Collins:7#	told:8	DOBJ:CBC PEI:ORG:PEI:10#POBJ-AT:time:event:time:2#	tell	state say tell 	tell%2:32:04::	A	---
+6	SUBJ:You:lemma:You:you:13#	promised:43	OBJ:---	promise	promise assure 	promise%2:32:00::	A	5:44#4:0#4:3#
+6	SUBJ:students:PER:student:52#	respect:53	DOBJ:property:possession:property:55#	respect	respect esteem value prize prise 	respect%2:31:00::	A	---
+6	SUBJ:You:lemma:You:you:13#	n't have upwards:16:17	DOBJ:upward:upward:upward:17#POBJ-AT:hour:DURATION:hour:30#POBJ-AROUND:area:LOC:area:27#POBJ-OF:2000 students:NMB:student:22#	have	have have_got hold 	have%2:40:00::	A	5:44#4:0#4:3#5:28#6:37#
+6	SUBJ:---	continue:45	DOBJ:patrols:ORG:patrols:46#	continue	continue go_on proceed go_along keep 	continue%2:42:01::	A	---
+6	SUBJ:---	teach:50	DOBJ:students respect:lemma:students respect:respect:53#POBJ-OF:students:PER:student:52#POBJ-OF:property:possession:property:55#	teach	teach learn instruct 	teach%2:32:00::	A	---
+7	SUBJ:Tommy Ko:PER:Ko:1#	told:2	DOBJ:CBC News:ORG:News:4#	tell	state say tell 	tell%2:32:04::	A	2:17#7:6#
+7	SUBJ:support this week:DATE:support:11#	overwhelmed:8	DOBJ:he:PER:he:6#POBJ-IN:thanks:communication:thanks:16#	overwhelm	overwhelm overpower sweep_over whelm overcome overtake 	overwhelm%2:37:00::	A	2:17#7:1#
+7	SUBJ:thanks:communication:thanks:16#	put:17	POBJ-ON:buffet:artifact:buffet:22#	put	put set place pose position lay 	put%2:35:00::	A	---
+7	SUBJ:customers:PER:customer:25#	insisted:26	OBJ:---	insist	insist take_a_firm_stand 	insist%2:32:00::	A	---
+8	SUBJ:they:PER:they:19#	want:20	OBJ:---	want	desire want 	want%2:37:00::	A	5:13#2:66#8:12#8:14#
+8	SUBJ:---	fighting:3	DOBJ:harassment:feeling:harassment:5#POBJ-FOR:years:NMB:year:9#	fight	contend fight struggle 	fight%2:33:00::	A	---

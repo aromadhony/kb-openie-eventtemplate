@@ -1,0 +1,51 @@
+1	SUBJ:---	believed 17-year-old student:5:3	DOBJ:student:person:student:3#DOBJ:Minnesota student:LOC:student:3#POBJ-OF:17-year-old:DURATION:17-year-old:1#POBJ-OF:Minnesota:LOC:Minnesota:2#	believe	believe 	believe%2:31:00::	A	1:15#1:9#16:0#17:15#18:32#0:3#
+1	SUBJ:---	drove 17-year-old student:14:3	DOBJ:student:person:student:3#DOBJ:Minnesota student:LOC:student:3#POBJ-TO:school:ORG:school:23#POBJ-OF:17-year-old:DURATION:17-year-old:1#POBJ-OF:Minnesota:LOC:Minnesota:2#	drive	drive 	drive%2:38:01::	A	1:15#1:9#16:0#17:15#18:32#0:3#
+1	SUBJ:---	drove squad car:14:19	DOBJ:car:artifact:car:19#DOBJ:Minnesota student:LOC:student:3#POBJ-TO:school:ORG:school:23#POBJ-OF:grandfather:PER:grandfather:16#POBJ-OF:squad:ORG:squad:18#	drive	drive 	drive%2:38:01::	A	1:15#1:9#1:10#
+1	SUBJ:---	shot 17-year-old student:26:3	DOBJ:student:person:student:3#DOBJ:Minnesota student:LOC:student:3#POBJ-OF:17-year-old:DURATION:17-year-old:1#POBJ-OF:Minnesota:LOC:Minnesota:2#	shoot	shoot hit pip 	shoot%2:33:01::	A	1:15#1:9#16:0#17:15#18:32#0:3#
+1	SUBJ:---	shot security guard:26:29	DOBJ:guard:person:guard:29#DOBJ:Minnesota student:LOC:student:3#DOBJ:teacher:PER:teacher:32#DOBJ:classmates:PER:classmate:36#POBJ-OF:security:state:security:28#	shoot	shoot hit pip 	shoot%2:33:01::	A	1:15#1:9#
+1	SUBJ:---	committing:39	DOBJ:suicide:act:suicide:40#	commit	perpetrate commit pull 	commit%2:41:00::	A	---
+1	SUBJ:---	shot:8	DOBJ:grandfather:PER:grandfather:10#	shoot	shoot hit pip 	shoot%2:33:01::	A	1:16#
+1	SUBJ:---	shot:8	DOBJ:grandmother:PER:grandmother:12#	shoot	shoot hit pip 	shoot%2:33:01::	A	---
+2	SUBJ:rampage:act:rampage:23#	subsided:24	OBJ:---	subside	subside lessen 	subside%2:30:00::	A	---
+2	SUBJ:---	injured others:20:18	DOBJ:other:other:other:18#DOBJ:14 others:NMB:other:18#	injure	injure wound 	injure%2:29:00::	A	---
+3	SUBJ:he:PER:he:7#	grinning:10	OBJ:---	grin	grin 	grin%2:29:00::	A	3:1#4:1#4:17#4:3#6:1#4:22#
+3	SUBJ:he:PER:he:7#	waving:12	OBJ:---	wave	beckon wave 	wave%2:32:00::	A	3:1#4:1#4:17#4:3#6:1#4:22#
+4	SUBJ:Sondra Hegstrom:PER:Hegstrom:22#	told:23	DOBJ:Pioneer:PER:Pioneer:26#POBJ-OF:Bemidji:LOC:Bemidji:28#	tell	state say tell 	tell%2:32:04::	A	3:1#4:1#4:17#4:3#6:1#3:7#
+4	SUBJ:I:PER:I:1#	looked:2	DOBJ:him:lemma:him:he:3#POBJ-IN:eye:body:eye:6#	look	look 	look%2:39:00::	A	3:1#4:17#4:3#6:1#3:7#4:22#3:1#4:1#4:17#6:1#3:7#4:22#
+4	SUBJ:I:PER:I:1#	ran:8	POBJ-IN:room:artifact:room:11#	run	run 	run%2:38:00::	A	3:1#4:17#4:3#6:1#3:7#4:22#
+4	SUBJ:I:PER:I:17#	hid:18	OBJ:---	hide	hide conceal 	hide%2:39:00::	A	3:1#4:1#4:3#6:1#3:7#4:22#
+5	SUBJ:You:lemma:You:you:1#	hear:3	OBJ:---	hear	hear 	hear%2:39:00::	A	7:2#
+5	SUBJ:Jeff:PER:Jeff:11#	quit:15	OBJ:---	quit	discontinue stop cease give_up quit lay_off 	quit%2:42:04::	A	---
+7	SUBJ:you:lemma:you:you:2#	doing:3	OBJ:---	do	make do 	do%2:41:01::	A	5:1#
+8	SUBJ:death:event:death:6#US:PER:US:10#US school:LOC:school:11#	toll:7	POBJ-IN:shootings:act:shooting:12#	toll	toll 	toll%2:39:00::	A	---
+8	SUBJ:Columbine High School:ORG:Columbine:15#	massacre:18	POBJ-IN:April 1999:DATE:April:20#	massacre	massacre slaughter mow_down 	massacre%2:30:00::	A	---
+8	SUBJ:incident:event:incident:2#	marks highest death toll:3:7	DOBJ:toll:possession:toll:7#POBJ-SINCE:Columbine High School massacre:ORG:massacre:18#POBJ-OF:death:event:death:6#POBJ-IN:shootings:act:shooting:12#	mark	tag label mark 	mark%2:35:09::	A	17:1#
+9	SUBJ:15 people:ORG_NMB:people:3#	were:1	OBJ:---	be	be 	be%2:42:03::	A	---
+9	SUBJ:15 people:ORG_NMB:people:3#	shot:4	POBJ-IN:Jefferson County:LOC:County:7#POBJ-IN:Columbine shooting:ORG:shooting:17#	shoot	shoot hit pip 	shoot%2:33:01::	A	---
+10	SUBJ:Police:ORG:police:0#	investigating possible motive:3:6	DOBJ:motive:Tops:motive:6#	investigate	investigate look_into 	investigate%2:32:00::	A	---
+11	SUBJ:It:lemma:It:it:1#	take:4	DOBJ:us:PER:we:5#POBJ-THROUGHOUT:the night:TIME:night:8#	take	take 	take%2:41:04::	A	12:19#12:6#14:30#12:1#
+11	SUBJ:---	put:11	DOBJ:whole picture:lemma:whole picture:picture:14#	put	put set place pose position lay 	put%2:35:00::	A	---
+12	SUBJ:we:PER:we:19#	believe:20	OBJ:---	believe	believe 	believe%2:31:00::	A	11:5#12:6#14:30#12:1#
+12	SUBJ:he:PER:he:21#	acting:23	OBJ:---	act	act move 	act%2:41:00::	A	11:22#12:15#
+12	SUBJ:we:PER:we:6#	believe:7	OBJ:---	believe	believe 	believe%2:31:00::	A	12:19#11:5#14:30#12:1#
+12	SUBJ:he:PER:he:15#	continued:16	OBJ:---	continue	continue go_on proceed go_along keep 	continue%2:42:01::	A	11:22#12:21#
+12	SUBJ:We:PER:we:1#	have evidence:3:4	DOBJ:evidence:cognition:evidence:4#	have	have have_got hold 	have%2:40:00::	A	12:19#11:5#12:6#14:30#
+13	SUBJ:Red Lake:LOC:Red:11#	reservation:13	OBJ:---	reserve	reserve 	reserve%2:40:03::	A	---
+13	SUBJ:authorities:ORG:authority:17#	asked Reporters:2:0	DOBJ:reporter:person:reporter:0#DOBJ:Reporters:PER:reporter:0#	ask	ask inquire enquire 	ask%2:32:00::	A	---
+13	SUBJ:---	leave:4	DOBJ:area:LOC:area:6#	leave	leave go_forth go_away 	leave%2:38:01::	A	---
+14	SUBJ:events:event:event:2#	make:16	POBJ-OF:occurrences:event:occurrence:25#	make	make do 	make%2:41:00::	A	---
+14	SUBJ:events:event:event:2#	took place:4:5	OBJ:---	take place	happen hap go_on pass_off occur pass fall_out come_about take_place 	take_place%2:30:00::	B	---
+14	SUBJ:---	involving:7	DOBJ:shootings:act:shootings:9#POBJ-AT:Red Lake High School:ORG:School:15#	involve	involve affect regard 	involve%2:42:01::	A	---
+15	SUBJ:5100 people:ORG_NMB:people:9#	living:11	POBJ-IN:part:relation:part:20#POBJ-ON:825000 acres:NMB:acre:14#	live	populate dwell live inhabit 	live%2:42:08::	A	---
+15	SUBJ:---	made band:4:2	DOBJ:band:group:band:2#DOBJ:Indian band:MISC:band:2#POBJ-ABOUT:5100 people:NMB:people:9#POBJ-OF:Indian:MISC:indian:1#	make	make do 	make%2:41:00::	A	---
+16	SUBJ:shooting:act:shooting:4#	was:5	POBJ-IN:September 2003:DATE:September:7#	be	be 	be%2:42:03::	A	---
+16	SUBJ:---	shot students:15:12	DOBJ:student:person:student:12#DOBJ:two students:NMB:student:12#POBJ-AT:Rocori High School:ORG:School:19#	shoot	shoot hit pip 	shoot%2:33:01::	A	18:1#
+17	SUBJ:---	expansion:10	DOBJ:gaming:act:gaming:13#	expand	expand spread_out 	expand%2:38:00::	A	---
+17	SUBJ:incident:event:incident:1#	had statewide implications:2:4	DOBJ:implication:cognition:implication:4#	have	have have_got hold 	have%2:40:00::	A	8:2#
+17	SUBJ:implications:cognition:implication:4#	causing hearing:6:8	DOBJ:hearing:act:hearing:8#POBJ-IN:Minnesota:LOC:Minnesota:15#POBJ-ON:expansion:act:expansion:10#	cause	cause do make 	cause%2:36:00::	A	16:0#18:32#0:3#1:2#
+18	SUBJ:We:PER:we:1#	ask:2	OBJ:---	ask	ask inquire enquire 	ask%2:32:00::	A	16:19#
+18	SUBJ:Tim Pawlenty:PER:Pawlenty:35#	said statement:28:30	DOBJ:statement:communication:statement:30#POBJ-FROM:Minnesota Gov.:LOC:Gov.:33#	say	state say tell 	say%2:32:00::	A	---
+18	SUBJ:Minnesotans:MISC:Minnesotans:3#	help comfort:5:6	DOBJ:comfort:state:comfort:6#	help	help assist aid 	help%2:41:00::	A	---
+18	SUBJ:families:ORG:family:8#	suffering unimaginable pain:16:18	DOBJ:pain:state:pain:18#	suffer	suffer endure 	suffer%2:39:01::	A	---
+18	SUBJ:---	extending:20	DOBJ:prayers:act:prayers:21#POBJ-OF:support:act:support:25#	extend	widen broaden extend 	extend%2:30:01::	A	---
+18	SUBJ:---	extending:20	DOBJ:expressions:attribute:expressions:23#	extend	widen broaden extend 	extend%2:30:01::	A	---
